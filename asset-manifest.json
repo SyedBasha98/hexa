@@ -1,22 +1,20 @@
 {
   "files": {
     "main.css": "/hexa/static/css/main.e6c13ad2.css",
-    "main.js": "/hexa/static/js/main.2002dd61.js",
+    "main.js": "/hexa/static/js/main.9d02ae6b.js",
     "static/js/453.0ef9f257.chunk.js": "/hexa/static/js/453.0ef9f257.chunk.js",
-    "static/media/Education & Research.jpg": "/hexa/static/media/Education & Research.c5ecbc846852573c867f.jpg",
     "static/media/Petrochemical & Refining.jpg": "/hexa/static/media/Petrochemical & Refining.5838ee10d897923da9c8.jpg",
-    "static/media/Healthcare.jpg": "/hexa/static/media/Healthcare.7657605075bee22706b3.jpg",
     "static/media/hexagulf-logo.png": "/hexa/static/media/hexagulf-logo.3456a4d60ab35052a45d.png",
     "static/media/Oil & Gas.webp": "/hexa/static/media/Oil & Gas.12f5e9b22fc39e222386.webp",
     "static/media/Marine Offshore.jpg": "/hexa/static/media/Marine Offshore.63b92b654652da1e49d1.jpg",
     "static/media/Construction & Infrastructure.jpg": "/hexa/static/media/Construction & Infrastructure.fd3b373ddfe5425b1f92.jpg",
     "index.html": "/hexa/index.html",
     "main.e6c13ad2.css.map": "/hexa/static/css/main.e6c13ad2.css.map",
-    "main.2002dd61.js.map": "/hexa/static/js/main.2002dd61.js.map",
+    "main.9d02ae6b.js.map": "/hexa/static/js/main.9d02ae6b.js.map",
     "453.0ef9f257.chunk.js.map": "/hexa/static/js/453.0ef9f257.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.2002dd61.js"
+    "static/js/main.9d02ae6b.js"
   ]
 }
